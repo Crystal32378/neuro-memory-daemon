@@ -1,6 +1,6 @@
 # 🧠 Neuro-Memory Daemon (`neuro-memory-daemon`)
 
-[![CI](https://github.com/1nc0gn30/neuro-memory-daemon/actions/workflows/ci.yml/badge.svg)](https://github.com/1nc0gn30/neuro-memory-daemon/actions/workflows/ci.yml)
+[![CI](https://github.com/NullAITech/neuro-memory-daemon/actions/workflows/ci.yml/badge.svg)](https://github.com/NullAITech/neuro-memory-daemon/actions/workflows/ci.yml)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0%20external-brightgreen.svg)](pyproject.toml)
@@ -118,7 +118,7 @@ Models biological neurotransmitter dynamics to modulate cognitive execution:
 ### Standard Installation
 ```bash
 # Clone repository
-git clone https://github.com/1nc0gn30/neuro-memory-daemon.git
+git clone https://github.com/NullAITech/neuro-memory-daemon.git
 cd neuro-memory-daemon
 
 # Install in editable mode

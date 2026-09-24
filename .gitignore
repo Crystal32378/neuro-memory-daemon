@@ -8,3 +8,6 @@ build/
 *.db
 *.sqlite
 
+
+.env
+node_modules/
