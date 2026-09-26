@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Neuro Memory Studio
+GenericName=Cognitive Synaptic Architecture Workstation
+Comment=Zero-Dependency Cognitive Synaptic Memory Engine, Hippocampal Indexing & Metacognitive Daemon
+Exec=/usr/local/bin/neuro-memory desktop
+Icon=/media/neo/f2fdda77-178b-4603-ae80-c7aa4cd97908/zoth-micro-repos/neuro-memory-daemon/assets/icon.png
+Terminal=false
+Categories=Development;Database;System;Utility;
+StartupNotify=true
+Actions=CLI;Web;
+
+[Desktop Action CLI]
+Name=Open Neuro-Memory CLI
+Exec=x-terminal-emulator -e "/usr/local/bin/neuro-memory --help"
+
+[Desktop Action Web]
+Name=Open Web UI (Port 8094)
+Exec=/usr/local/bin/neuro-memory web
